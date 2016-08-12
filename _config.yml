@@ -1,6 +1,6 @@
 name: Salud Para Hoy
 favicon: null
-layout_spectrum: 0.37013793108053505
+layout_spectrum: 0.62279
 typography_spectrum: 0.5252361735329032
 title: Buena salud y bienestar
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#ffffff'
+    - '#cda687'
+    - '#c0dd1f'
+    - '#fe8502'
+    - '#a9100f'
   brandStrength: 0.8685169825330377
   lightness: 0.47020396078005433
   saturation: 0.9374665678478777
