@@ -2,6 +2,7 @@ name: Salud Para Hoy
 favicon: null
 layout_spectrum: 0.37013793108053505
 typography_spectrum: 0.5252361735329032
+title: Buena salud y bienestar
 cta:
   domain: null
   bucket: null
